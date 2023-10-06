@@ -1,0 +1,7 @@
+{
+  "name": "com.company.unity-test-package",
+  "version": "1.0.0",
+  "displayName": "Unity Test Package",
+  "description": "todo",
+  "unity": "2021.3"
+}
